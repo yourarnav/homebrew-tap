@@ -7,7 +7,7 @@ cask "codexreserve" do
   desc "Two rings in your menu bar. Codex limits, nothing else."
   homepage "https://github.com/yourarnav/CodexReserve"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "CodexReserve.app"
 end
