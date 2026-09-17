@@ -1,6 +1,6 @@
 cask "codexreserve" do
-  version "2.0.1"
-  sha256 "6be2864ac5e916833b0f6dc6ab4f594991201823e47fb2a98df89e32f9308e5e"
+  version "2.0.2"
+  sha256 "c91e7ac18dfab6b9d0328893b1d0da304b8ac8b8de29c275cd1090807ef83c14"
 
   url "https://github.com/yourarnav/CodexReserve/releases/download/v#{version}/CodexReserve.dmg"
   name "CodexReserve"
