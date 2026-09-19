@@ -1,6 +1,6 @@
 cask "pdftoimages" do
   version "1.0.0"
-  sha256 "7af86453e3ad3346dfd5482baf4809eeb00a2727990a5f049636c4715aba8a31"
+  sha256 "f7425a13841c8d4293f01687e9dcb59fb41ebe3bf9532c6cd4e99888063c776e"
 
   url "https://github.com/yourarnav/PDFtoImages/releases/download/v#{version}/PDFtoImages.dmg"
   name "PDF to Images"
