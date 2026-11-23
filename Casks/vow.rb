@@ -1,6 +1,6 @@
 cask "vow" do
-  version "1.0.27"
-  sha256 "e0715147326b4fecd7fe90251ce17a967331f1fdf1c8728946ea9a67a43bceb8"
+  version "1.0.29"
+  sha256 "7e3f205a3163fa09a500982c1ec6664c7608714963595ba57b83eff8e127ca59"
 
   url "https://raw.githubusercontent.com/byarnav/offline-lock-releases/main/Vow-#{version}.dmg"
   name "Vow"
